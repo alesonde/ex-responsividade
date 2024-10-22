@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}#destaque{
+    width: 60vw;
+    height: 500px;
+    background-color: grey;
+}.secundaria{
+    background-color: grey;
+    width: 40vw;
+    height: 150px;
+    margin-bottom: 20px;
+}#sci{
+    display: flex;
+    gap: 20px;
+}h1{
+    font-size: 5rem;
+    text-align: center;
+}header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}#jogo{
+    height: 30px;
+    width: 30px;
+    background-color: gray;
+}#secundarias{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}#sc1{
+    display: flex;
+    
+}
+
+@media (max-width:559px){
+    boody{
+        background-color: green;
+        }
+    }
+@media(max-widht){
+
+    #scl{
+        flex-direction: column;
+        align-items: center;
+    }#secundarias{
+        flex-direction: row;
+    }#desteque{
+        width: 90vw;
+        height: 500px;
+    }
+}@media(max-width; 450px){
+    #
+}
+
+
+
+
+
+
